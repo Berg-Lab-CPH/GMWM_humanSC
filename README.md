@@ -10,3 +10,12 @@ This file contains four image arrays in the nifti-format:
 3) The original stitched images with background and non-intensity-corrected 
 
 4) The intensity-corrected images without background 
+
+Data acquired by the Berg-lab at University of Copenhagen 2019.
+
+For more information can be found here:
+
+http://berg-lab.net
+
+
+Rune W. Berg, 2020.
